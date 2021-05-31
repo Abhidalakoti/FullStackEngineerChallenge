@@ -38,7 +38,7 @@ const SigninForm = (props) => {
             <Row>
                 <Col md={3}/>
                 <Col md={3}><Button style={{width: "100%"}} bsStyle="primary" bsSize="large" type="submit" disabled={submitting}>Sign in</Button></Col>
-                <Col md={3}><Button style={{width: "100%"}} bsStyle="success" bsSize="large" type="button" disabled={pristine || submitting} onClick={reset}>Clear Value</Button></Col>
+                <Col md={3}><Button style={{width: "100%"}} bsStyle="success" bsSize="large" type="button" disabled={pristine || submitting} onClick={reset}>Clear </Button></Col>
                 <Col md={3}/>
             </Row>
         </form>

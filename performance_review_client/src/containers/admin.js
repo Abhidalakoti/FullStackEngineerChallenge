@@ -10,15 +10,15 @@ import { connect } from 'react-redux';
 
 
 const sampleEmployeeList = [
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 1 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 2 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 3 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 4 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 5 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 6 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 7 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 8 },
-    {name: 'Sanghyun Park', job: 'FullStack Developer', department: 'IT', id: 9 }
+    {name: 'Abhinav Dalakoti', job: 'Developer', department: 'IT', id: 1 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 2 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 3 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 4 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 5 },
+    {name: 'Abhinav Dalakoti', job: 'Developer', department: 'IT', id: 6 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 7 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 8 },
+    {name: 'Abhinav Dalakoti', job: ' Developer', department: 'IT', id: 9 }
 ];
 
 

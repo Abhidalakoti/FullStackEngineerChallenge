@@ -10,7 +10,7 @@ const cors = require('cors');
 const cookieParser = require('cookie-parser');
 
 // DB Setup
-mongoose.connect('mongodb://localhost:paytm/paytm');
+mongoose.connect('mongodb://dell:Password@123@dell-Latitude-E7440:21017/abhinav');
 
 // App Setup
 app.use(morgan('combined'));
